@@ -45,10 +45,10 @@
   },
   "infoCards": {
     "profileOf": {
-      "title": "Profile de"
+      "title": "Profil de"
     },
     "profileInfo": {
-      "title": "Information du profile",
+      "title": "Information du profil",
       "isItsProfile": "Voici votre profil. Vous seul pouvez voir les informations avec un cadenas",
       "isNotItsProfile": "Ce n'est pas votre profil ou vous n'êtes pas connecté. Afin de protéger la vie privée des joueurs, vous n'avez pas accès à toutes les informations du profil."
     }, 
